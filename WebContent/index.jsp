@@ -7,6 +7,6 @@
 <title>Nhom 13</title>
 </head>
 <body>
-	<h3>Servlet Hello at /Hello</h3>
+	<h3>Servlet Hello at <a href="https://nhom13ithcmute.herokuapp.com/Hello">/Hello</a></h3>
 </body>
 </html>
